@@ -1,7 +1,3 @@
-# [SurWay](sur-way.herokuapp.com)
-
-#### [View Live Version!](https://sur-way.herokuapp.com) - sur-way.herokuapp.com
-
 SurWay is a survey/polling website for cab drivers where they can report their typical work hours and which company they work for, this data is then stored anonymously and used to generate charts and insights.
 
 * Frontend - [React](https://reactjs.org/), [Material-UI](https://material-ui.com/), [React ChartsJS 2](https://www.npmjs.com/package/react-chartjs-2)
@@ -28,9 +24,6 @@ SurWay is a survey/polling website for cab drivers where they can report their t
 <hr>
 
 <hr>
-
-> Below is an excerpt from the Blog I wrote about the Making of SurWay, you can find the original post [here](https://www.linkedin.com/pulse/surway-survey-site-drivers-my-first-react-app-rohan-sawant/)
-
 #### SurWay
 
 I completed work on my first React App a few days ago, the App is called SurWay.
@@ -39,8 +32,7 @@ This is a survey website for cab drivers where they can report their typical wor
 
 > This took way longer than expected to complete. The general idea was to add several features like browser finger printing and SSO to ensure that a single user could be allowed to cast a vote only once. But, I decided to postpone these features for a future release. 
 
-I had been trying to make up time to learn JavaScript, specifically Node and React for the better part of the last year. I have gone through several learn in 4-hour courses and a million tutorials but, as always actually making a project with JS was something which helped me learn things even better. I even wrote about it here in - [The 'I think I have got the hang of it' Moment - React](https://dev.to/rohansawant/the-i-think-i-have-got-the-hang-of-it-moment-react-5025)
-
+I had been trying to make up time to learn JavaScript, specifically Node and React for the better part of the last year. I have gone through several learn in 4-hour courses and a million tutorials but, as always actually making a project with JS was something which helped me learn things even better.
 This is a general overview of how I went about building it, with some useful resources and some screenshots. 
 
 #### Step 1 - Set up Node and React
